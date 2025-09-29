@@ -20,7 +20,7 @@
 ### 🧑‍🎓 Education
 
 * Indian Institute of Information Technology, Bhopal
-* B.Tech — Information Technology** (Nov 2022 – Jun 2026)
+* B.Tech — Information Technology (Nov 2022 – Jun 2026)
 * CGPA: 8.31/10.0
 
 **Relevant coursework:** Operating Systems, Object-Oriented Programming, Computer Networking, DBMS
