@@ -1,119 +1,127 @@
-<h1 align="center">Hi 👋, I'm Uday Deshmukh</h1>
-<h3 align="center">Full-Stack Developer | Competitive Programmer | Open-Source Contributor</h3>
+<h2 align="left">Hi 👋! My name is Uday Deshmukh and I'm a Full-Stack Developer, from Bhopal, India</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deshmukh3421&label=Profile%20views&color=0e75b6&style=flat" alt="deshmukh3421" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deshmukh3421&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deshmukh3421&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🔎 TL;DR
+###
 
-* 🎓 B.Tech (Information Technology), IIIT Bhopal — **CGPA: 8.31/10**
-* 💻 Full-stack experience with React/Next.js, Node.js, Express, MongoDB
-* ☁️ Familiar with cloud & deployment: AWS EC2, S3, Vercel, Netlify
-* ⚙️ Dev practices: Git, CI/CD, Docker (basic), Agile
-* 🔗 Find my work: [GitHub](https://github.com/deshmukh3421) • [LinkedIn](https://www.linkedin.com/in/uday-deshmukh-b4773b2b7/)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-### 🧑‍🎓 Education
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
+</div>
 
-**Indian Institute of Information Technology, Bhopal**
-**B.Tech — Information Technology** (Nov 2022 – Jun 2026)
-**CGPA:** 8.31/10.0
+###
 
-**Relevant coursework:** Operating Systems, Object-Oriented Programming, Computer Networking, DBMS
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=2D2D2D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo"  />
+  <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=FB9B00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo"  />
+</div>
 
----
+###
 
-### 💼 Experience
+<br clear="both">
 
-#### Frontend Developer Intern — **AI-ZIRA TECHNOLOGY PVT. LTD.**
+<img src="https://raw.githubusercontent.com/deshmukh3421/deshmukh3421/output/snake.svg" alt="Snake animation" />
 
-*Jan 2025 – Jul 2025*
+###
 
-* Migrated legacy frontend from jQuery to React (Hooks + Context API), reducing code complexity by **~40%**.
-* Built 20+ responsive pages from Figma with pixel-perfect fidelity.
-* Integrated REST APIs and reduced UI–backend interface issues by **~20%** during QA.
-
-#### Full Stack Web Development Intern — **FUTURE INTERNS**
-
-*May 2025 – Jun 2025*
-
-* Delivered 3 full-stack applications (Node, Express, MongoDB, React) with zero critical bugs on release.
-* Implemented AI-driven preset message logic to improve UX for anonymous forms.
-* Practiced weekly GitHub submissions and incorporated mentor feedback for improved code quality.
-
----
-
-### 🛠️ Tech Stack
-
-#### 👨‍💻 Languages & Frameworks
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-
-#### 🧩 Full Stack (MERN + Next.js)
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge\&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-
-#### ⚙️ DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=for-the-badge\&logo=amazon-s3\&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+## 🔎 About me (TL;DR)
+- 🎓 **B.Tech — Information Technology**, IIIT Bhopal — **CGPA: 8.31/10**  
+- 💻 Full-stack: **React / Next.js, Node.js, Express, MongoDB**  
+- ☁️ Familiar with **AWS (EC2, S3)**, Docker, CI/CD (GitHub Actions / Jenkins basics)  
+- ⚙️ Competitive programming (Codeforces, CodeChef) & Open-source contributor
 
 ---
 
-### 📌 Projects
-
-#### 📝 IPSUM (Task Management)
-
-**Tech:** Next.js, React, Tailwind, Appwrite
-
-* Jira-inspired board with drag & drop, RBAC, and WebSocket real-time sync (<300ms).
-* Repo: [IPSUM](https://github.com/deshmukh3421/ipsum-jira-clone-)
-
-#### 💌 Mystery Messenger
-
-**Tech:** Next.js, MongoDB, TypeScript
-
-* Secure anonymous message links + AI-powered suggestions (Gemini API).
-* Repo: [Mystery Messenger](https://github.com/deshmukh3421/mysteryMessanger)
-
-#### 📄 Resume Builder
-
-**Tech:** React, Node, MongoDB, Express
-
-* 10 customizable templates, PDF export, JWT auth and encrypted passwords.
-* Repo: [Resume Builder](https://github.com/deshmukh3421/resumeBuilder)
+## 🧑‍🎓 Education
+**Indian Institute of Information Technology, Bhopal**  
+B.Tech — Information Technology (Nov 2022 – Jun 2026) — **CGPA: 8.31/10**  
+Relevant coursework: Operating Systems, OOP, Computer Networks, DBMS
 
 ---
 
-### 🏆 Achievements & Certifications
+## 💼 Experience (selected)
+**Frontend Developer Intern** — *AI-ZIRA TECHNOLOGY PVT. LTD.*  
+*Jan 2025 – Jul 2025*  
+- Migrated frontend from jQuery to React (Hooks + Context), reduced complexity ~40%.  
+- Built 20+ responsive pages, integrated REST APIs, cut UI–backend issues by ~20%.
 
-* **Codeforces:** Rank 366 in Round 1020 (Div. 3) — Apr 2025.
-* **CodeChef:** 3★ rating (max 1647).
-* **freeCodeCamp certifications:** Responsive Web Design, JavaScript Algorithms & Data Structures, Frontend Development Libraries.
-* **Top 50 Finalist** — CodeRush by Algo University (4,000+ participants).
-* **1st place** — College Carrom Championship.
+**Full Stack Web Development Intern** — *FUTURE INTERNS*  
+*May 2025 – Jun 2025*  
+- Delivered 3 full-stack apps (Node, Express, MongoDB, React).  
+- Implemented AI-driven UX enhancements and production-ready deployments.
 
 ---
 
-### 📫 Contact
+## 🛠️ Tech Stack
+**Languages:** C, C++, Python, JavaScript (ES6+), TypeScript  
+**Frontend:** React, Next.js, Redux, Tailwind CSS, Bootstrap, HTML5, CSS3  
+**Backend:** Node.js, Express, REST APIs, JWT auth  
+**Databases:** MongoDB, MySQL, PostgreSQL, Redis (familiar)  
+**Cloud & Tools:** AWS EC2, S3 basics, Firebase, Vercel, Docker (basic), Git, Postman  
+**Practices:** Agile/Scrum, CI/CD, code review, testing basics
 
-* **Email:** [uday181075@gmail.com](mailto:uday181075@gmail.com)
-* **Phone:** +91 70833 57451
-* **LinkedIn:** [Uday Deshmukh](https://www.linkedin.com/in/uday-deshmukh-b4773b2b7/)
-* **GitHub:** [deshmukh3421](https://github.com/deshmukh3421)
-* **Codeforces:** [uday_deshmukh](https://codeforces.com/profile/uday_deshmukh)
+---
+
+## 📌 Projects (highlights)
+### IPSUM — Task Management  
+**Tech:** Next.js, React, Tailwind, Appwrite  
+- Jira-style board with drag & drop, RBAC, realtime sync.  
+- Repo: https://github.com/deshmukh3421/ipsum-jira-clone-
+
+### Mystery Messenger — Anonymous Messaging  
+**Tech:** Next.js, MongoDB, TypeScript  
+- Secure anonymous links + AI suggestions.  
+- Repo: https://github.com/deshmukh3421/mysteryMessanger
+
+### Resume Builder  
+**Tech:** React, Node, MongoDB, Express  
+- Multiple templates, PDF export, JWT auth.  
+- Repo: https://github.com/deshmukh3421/resumeBuilder
+
+---
+
+## 🏆 Achievements
+- **Codeforces:** Competed in rated rounds (profile: uday_deshmukh)  
+- **CodeChef:** 3★ rating  
+- FreeCodeCamp certificates: Responsive Web Design, JS Algorithms & Data Structures, Frontend Libraries  
+- Top 50 Finalist — CodeRush by Algo University
+
+---
+
+## 📫 Get in touch
+- **Email:** uday181075@gmail.com  
+- **Phone:** +91 70833 57451  
+- **LinkedIn:** https://www.linkedin.com/in/uday-deshmukh-b4773b2b7/  
+- **GitHub:** https://github.com/deshmukh3421  
+- **Codeforces:** https://codeforces.com/profile/uday_deshmukh
+
+---
+
+> If you want, I can:
+> - Add GitHub stat badges (commits, streak) in the top section.  
+> - Replace the snake animation link with a working one from a repo you create (I can help create `output/snake.svg` in a repo).  
+> - Produce a one-line LinkedIn summary or a compact resume header.
+
